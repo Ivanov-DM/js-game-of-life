@@ -16,5 +16,10 @@
   },
   "homepage": "https://github.com/Ivanov-DM/js-game-of-life#readme",
   "keywords": [],
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "eslint": "^7.11.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-plugin-import": "^2.22.1"
+  }
 }
