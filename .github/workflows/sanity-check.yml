@@ -20,3 +20,4 @@ jobs:
       - name: Lint check
         run: |
           npm run test
+git 
